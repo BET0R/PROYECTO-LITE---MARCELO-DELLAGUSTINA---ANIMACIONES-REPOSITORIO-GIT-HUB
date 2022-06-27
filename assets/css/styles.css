@@ -53,8 +53,8 @@ h2 {
   display: flex;
   justify-content: space-around;
   background-color: #47533e;
-  position: fixed;
-  width: 100vw;
+  /* position: fixed; */
+  /* width: 100vw; */
 }
 
 .logo {
